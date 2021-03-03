@@ -17,5 +17,10 @@ msgstr ""
 
 #. module: account_invoice_detail
 #: model_terms:ir.ui.view,arch_db:account_invoice_detail.report_invoice_document
+msgid "<strong>Reference:</strong>"
+msgstr "<strong>Referenz:</strong>"
+
+#. module: account_invoice_detail
+#: model_terms:ir.ui.view,arch_db:account_invoice_detail.report_invoice_document
 msgid "<strong>Salesperson:</strong>"
 msgstr "<strong>Verkäufer:</strong>"
